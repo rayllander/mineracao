@@ -1,0 +1,293 @@
+Relatório do Concurso UEG
+========================================
+
+1. Quantidade de inscritos por vaga:
+Curso
+Formosa - Linguística, Língua Portuguesa e Ensino                         61
+Goianésia - Fundamentos da Educação                                       50
+Porangatu - Geografia Humana                                              40
+Quirinópolis - Ensino de Matemática                                       40
+Quirinópolis - Literaturas de Língua Portuguesa e E nsino                 39
+Goianésia - Gestão e Políticas Educacionais                               35
+Formosa - Ensino de Matemática                                            32
+Formosa - Literaturas de Língua Portuguesa e Ensino                       32
+Inhumas - Psicologia da Saúde                                             31
+Porangatu - Linguística, Língua Portuguesa e Ensino                       31
+Uruaçu - Fundamentos da Educação                                          29
+Porangatu - História do Mundo Atlântico                                   27
+Pirenópolis - Gastronomia                                                 26
+Uruaçu - História Geral                                                   25
+Itumbiara - Matemática Superior, Probabilidade e Es tatística             25
+Caldas Novas - Administração Geral                                        25
+Quirinópolis - Teorias e Práticas do Ensino e da Pe squisa em História    23
+Uruaçu - Teorias e Práticas do Ensino e da Pesquisa  em História          22
+Anápolis - Teoria Econômica com Ênfase em Desenvolv imento Regional       22
+Porangatu - Literaturas de Língua Portuguesa e Ensi no                    21
+Inhumas - Psicologia e Processos Clínicos e Avaliaç ão Psicológica        21
+Formosa - Gestão e Políticas Educacionais                                 21
+Quirinópolis - História Geral                                             21
+Luziânia - Administração Geral                                            19
+Formosa - Fundamentos da Educação                                         19
+Caldas Novas - Gastronomia                                                19
+Quirinópolis - Fundamentos da Educação                                    18
+Anápolis - Administração de Operações                                     17
+Formosa - Língua Inglesa e Ensino                                         17
+Porangatu - Didática, prática e estágio em Geografi a                     17
+Aparecida de Goiânia - Contabilidade Gerencial                            17
+Inhumas - Psicologia Social do Trabalho e das Organ izações               16
+São Miguel do Araguaia - Didática e prática pedagóg ica                   16
+Formosa - Didática e Prática Pedagógica                                   16
+Quirinópolis - Língua Inglesa e Ensino                                    15
+Trindade - Design                                                         15
+Anápolis - Contabilidade Financeira                                       15
+Inhumas - Psicologia Jurídica                                             15
+Anápolis - Macroeconomia                                                  14
+Aparecida de Goiânia - Contabilidade Financeira                           14
+Trindade - Planejamento e desenvolvimento de coleçã o                     14
+Uruaçu - Didática e prática pedagógica                                    14
+Luziânia - Administração de Recursos Humanos                              14
+Campos Belos - Didática e Prática Pedagógica                              13
+Senador Canedo - Logística                                                13
+Santa Helena de Goiás - Administração Geral                               13
+Campos Belos - Fundamentos da Educação                                    13
+Quirinópolis - Gestão e Políticas Educacionais                            13
+Morrinhos - Contabilidade Gerencial                                       12
+Caldas Novas - Administração Financeira                                   11
+Trindade - Costura e modelagem                                            11
+Morrinhos - Contabilidade Financeira                                      11
+Uruaçu - Gestão e Políticas Educacionais                                  10
+São Miguel do Araguaia - Fundamentos da Educação                          10
+Porangatu - História Geral                                                10
+Inhumas - Psicologia em situações de crises, desast res e emergências      8
+Porangatu - Língua Inglesa e Ensino                                        8
+Uruaçu - Contabilidade Financeira                                          8
+Minaçu - Didática e Prática Pedagógica                                     8
+Jaraguá - Contabilidade Aplicada                                           8
+Itumbiara - Macroeconomia                                                  8
+Anápolis - Métodos Quantitativos em Economia                               7
+Jaraguá - Contabilidade Financeira                                         7
+Aparecida de Goiânia - Contabilidade Aplicada                              7
+Luziânia - Administração de Operações                                      6
+Uruaçu - Contabilidade Gerencial                                           5
+Santa Helena de Goiás - Administração Financeira                           5
+Caldas Novas - Administração de Operações                                  4
+Jaraguá - Contabilidade Gerencial                                          4
+Morrinhos - Contabilidade Aplicada                                         4
+Santa Helena de Goiás - Administração de Operações                         4
+Jataí - Logística                                                          2
+Uruaçu - Contabilidade Aplicada                                            2
+São Miguel do Araguaia - Gestão e Políticas Educaci onais                  1
+
+2. Percentual de homens e mulheres por vaga:
+Curso                                                                   Genero    
+Anápolis - Administração de Operações                                   Masculino      41.176471
+                                                                        Indefinido     35.294118
+                                                                        Feminino       23.529412
+Anápolis - Contabilidade Financeira                                     Masculino      53.333333
+                                                                        Indefinido     33.333333
+                                                                        Feminino       13.333333
+Anápolis - Macroeconomia                                                Masculino      50.000000
+                                                                        Indefinido     28.571429
+                                                                        Feminino       21.428571
+Anápolis - Métodos Quantitativos em Economia                            Indefinido     42.857143
+                                                                        Feminino       28.571429
+                                                                        Masculino      28.571429
+Anápolis - Teoria Econômica com Ênfase em Desenvolv imento Regional     Masculino      45.454545
+                                                                        Feminino       27.272727
+                                                                        Indefinido     27.272727
+Aparecida de Goiânia - Contabilidade Aplicada                           Indefinido     57.142857
+                                                                        Masculino      28.571429
+                                                                        Feminino       14.285714
+Aparecida de Goiânia - Contabilidade Financeira                         Indefinido     57.142857
+                                                                        Feminino       21.428571
+                                                                        Masculino      21.428571
+Aparecida de Goiânia - Contabilidade Gerencial                          Indefinido     52.941176
+                                                                        Masculino      29.411765
+                                                                        Feminino       17.647059
+Caldas Novas - Administração Financeira                                 Indefinido     45.454545
+                                                                        Masculino      36.363636
+                                                                        Feminino       18.181818
+Caldas Novas - Administração Geral                                      Indefinido     36.000000
+                                                                        Feminino       32.000000
+                                                                        Masculino      32.000000
+Caldas Novas - Administração de Operações                               Indefinido     50.000000
+                                                                        Feminino       25.000000
+                                                                        Masculino      25.000000
+Caldas Novas - Gastronomia                                              Feminino       47.368421
+                                                                        Masculino      31.578947
+                                                                        Indefinido     21.052632
+Campos Belos - Didática e Prática Pedagógica                            Indefinido     53.846154
+                                                                        Feminino       46.153846
+Campos Belos - Fundamentos da Educação                                  Indefinido     46.153846
+                                                                        Masculino      46.153846
+                                                                        Feminino        7.692308
+Formosa - Didática e Prática Pedagógica                                 Feminino       62.500000
+                                                                        Indefinido     37.500000
+Formosa - Ensino de Matemática                                          Indefinido     40.625000
+                                                                        Masculino      37.500000
+                                                                        Feminino       21.875000
+Formosa - Fundamentos da Educação                                       Feminino       63.157895
+                                                                        Masculino      21.052632
+                                                                        Indefinido     15.789474
+Formosa - Gestão e Políticas Educacionais                               Feminino       61.904762
+                                                                        Indefinido     19.047619
+                                                                        Masculino      19.047619
+Formosa - Linguística, Língua Portuguesa e Ensino                       Feminino       44.262295
+                                                                        Indefinido     36.065574
+                                                                        Masculino      19.672131
+Formosa - Literaturas de Língua Portuguesa e Ensino                     Indefinido     50.000000
+                                                                        Masculino      28.125000
+                                                                        Feminino       21.875000
+Formosa - Língua Inglesa e Ensino                                       Indefinido     35.294118
+                                                                        Masculino      35.294118
+                                                                        Feminino       29.411765
+Goianésia - Fundamentos da Educação                                     Feminino       54.000000
+                                                                        Indefinido     40.000000
+                                                                        Masculino       6.000000
+Goianésia - Gestão e Políticas Educacionais                             Feminino       45.714286
+                                                                        Indefinido     34.285714
+                                                                        Masculino      20.000000
+Inhumas - Psicologia Jurídica                                           Feminino       40.000000
+                                                                        Indefinido     33.333333
+                                                                        Masculino      26.666667
+Inhumas - Psicologia Social do Trabalho e das Organ izações             Masculino      43.750000
+                                                                        Feminino       37.500000
+                                                                        Indefinido     18.750000
+Inhumas - Psicologia da Saúde                                           Feminino       45.161290
+                                                                        Indefinido     32.258065
+                                                                        Masculino      22.580645
+Inhumas - Psicologia e Processos Clínicos e Avaliaç ão Psicológica      Feminino       52.380952
+                                                                        Indefinido     38.095238
+                                                                        Masculino       9.523810
+Inhumas - Psicologia em situações de crises, desast res e emergências   Feminino       50.000000
+                                                                        Masculino      37.500000
+                                                                        Indefinido     12.500000
+Itumbiara - Macroeconomia                                               Masculino      62.500000
+                                                                        Indefinido     37.500000
+Itumbiara - Matemática Superior, Probabilidade e Es tatística           Masculino      48.000000
+                                                                        Indefinido     40.000000
+                                                                        Feminino       12.000000
+Jaraguá - Contabilidade Aplicada                                        Masculino      62.500000
+                                                                        Feminino       25.000000
+                                                                        Indefinido     12.500000
+Jaraguá - Contabilidade Financeira                                      Indefinido     42.857143
+                                                                        Masculino      42.857143
+                                                                        Feminino       14.285714
+Jaraguá - Contabilidade Gerencial                                       Indefinido     50.000000
+                                                                        Masculino      50.000000
+Jataí - Logística                                                       Feminino       50.000000
+                                                                        Masculino      50.000000
+Luziânia - Administração Geral                                          Masculino      52.631579
+                                                                        Indefinido     26.315789
+                                                                        Feminino       21.052632
+Luziânia - Administração de Operações                                   Masculino      66.666667
+                                                                        Feminino       16.666667
+                                                                        Indefinido     16.666667
+Luziânia - Administração de Recursos Humanos                            Feminino       42.857143
+                                                                        Masculino      35.714286
+                                                                        Indefinido     21.428571
+Minaçu - Didática e Prática Pedagógica                                  Indefinido     50.000000
+                                                                        Feminino       37.500000
+                                                                        Masculino      12.500000
+Morrinhos - Contabilidade Aplicada                                      Masculino      75.000000
+                                                                        Indefinido     25.000000
+Morrinhos - Contabilidade Financeira                                    Feminino       36.363636
+                                                                        Masculino      36.363636
+                                                                        Indefinido     27.272727
+Morrinhos - Contabilidade Gerencial                                     Indefinido     41.666667
+                                                                        Masculino      41.666667
+                                                                        Feminino       16.666667
+Pirenópolis - Gastronomia                                               Feminino       46.153846
+                                                                        Indefinido     26.923077
+                                                                        Masculino      26.923077
+Porangatu - Didática, prática e estágio em Geografi a                   Indefinido     35.294118
+                                                                        Masculino      35.294118
+                                                                        Feminino       29.411765
+Porangatu - Geografia Humana                                            Masculino      52.500000
+                                                                        Indefinido     27.500000
+                                                                        Feminino       20.000000
+Porangatu - História Geral                                              Masculino      40.000000
+                                                                        Feminino       30.000000
+                                                                        Indefinido     30.000000
+Porangatu - História do Mundo Atlântico                                 Masculino      59.259259
+                                                                        Feminino       22.222222
+                                                                        Indefinido     18.518519
+Porangatu - Linguística, Língua Portuguesa e Ensino                     Feminino       45.161290
+                                                                        Indefinido     41.935484
+                                                                        Masculino      12.903226
+Porangatu - Literaturas de Língua Portuguesa e Ensi no                  Feminino       52.380952
+                                                                        Indefinido     33.333333
+                                                                        Masculino      14.285714
+Porangatu - Língua Inglesa e Ensino                                     Indefinido     62.500000
+                                                                        Feminino       25.000000
+                                                                        Masculino      12.500000
+Quirinópolis - Ensino de Matemática                                     Masculino      55.000000
+                                                                        Indefinido     27.500000
+                                                                        Feminino       17.500000
+Quirinópolis - Fundamentos da Educação                                  Feminino       38.888889
+                                                                        Indefinido     38.888889
+                                                                        Masculino      22.222222
+Quirinópolis - Gestão e Políticas Educacionais                          Indefinido     53.846154
+                                                                        Feminino       23.076923
+                                                                        Masculino      23.076923
+Quirinópolis - História Geral                                           Masculino      52.380952
+                                                                        Indefinido     28.571429
+                                                                        Feminino       19.047619
+Quirinópolis - Literaturas de Língua Portuguesa e E nsino               Feminino       38.461538
+                                                                        Indefinido     35.897436
+                                                                        Masculino      25.641026
+Quirinópolis - Língua Inglesa e Ensino                                  Feminino       53.333333
+                                                                        Masculino      26.666667
+                                                                        Indefinido     20.000000
+Quirinópolis - Teorias e Práticas do Ensino e da Pe squisa em História  Feminino       56.521739
+                                                                        Indefinido     30.434783
+                                                                        Masculino      13.043478
+Santa Helena de Goiás - Administração Financeira                        Feminino       40.000000
+                                                                        Masculino      40.000000
+                                                                        Indefinido     20.000000
+Santa Helena de Goiás - Administração Geral                             Masculino      38.461538
+                                                                        Feminino       30.769231
+                                                                        Indefinido     30.769231
+Santa Helena de Goiás - Administração de Operações                      Indefinido     75.000000
+                                                                        Masculino      25.000000
+Senador Canedo - Logística                                              Indefinido     53.846154
+                                                                        Masculino      38.461538
+                                                                        Feminino        7.692308
+São Miguel do Araguaia - Didática e prática pedagóg ica                 Feminino       50.000000
+                                                                        Indefinido     50.000000
+São Miguel do Araguaia - Fundamentos da Educação                        Masculino      50.000000
+                                                                        Indefinido     30.000000
+                                                                        Feminino       20.000000
+São Miguel do Araguaia - Gestão e Políticas Educaci onais               Masculino     100.000000
+Trindade - Costura e modelagem                                          Indefinido     63.636364
+                                                                        Feminino       36.363636
+Trindade - Design                                                       Indefinido     40.000000
+                                                                        Masculino      33.333333
+                                                                        Feminino       26.666667
+Trindade - Planejamento e desenvolvimento de coleçã o                   Feminino       71.428571
+                                                                        Indefinido     21.428571
+                                                                        Masculino       7.142857
+Uruaçu - Contabilidade Aplicada                                         Indefinido     50.000000
+                                                                        Masculino      50.000000
+Uruaçu - Contabilidade Financeira                                       Indefinido     62.500000
+                                                                        Masculino      25.000000
+                                                                        Feminino       12.500000
+Uruaçu - Contabilidade Gerencial                                        Indefinido     60.000000
+                                                                        Masculino      40.000000
+Uruaçu - Didática e prática pedagógica                                  Feminino       50.000000
+                                                                        Indefinido     50.000000
+Uruaçu - Fundamentos da Educação                                        Feminino       44.827586
+                                                                        Indefinido     34.482759
+                                                                        Masculino      20.689655
+Uruaçu - Gestão e Políticas Educacionais                                Masculino      50.000000
+                                                                        Indefinido     30.000000
+                                                                        Feminino       20.000000
+Uruaçu - História Geral                                                 Masculino      48.000000
+                                                                        Indefinido     28.000000
+                                                                        Feminino       24.000000
+Uruaçu - Teorias e Práticas do Ensino e da Pesquisa  em História        Indefinido     36.363636
+                                                                        Feminino       31.818182
+                                                                        Masculino      31.818182
+
+[CURIOSIDADE]
+O curso com mais inscritos foi 'Formosa - Linguística, Língua Portuguesa e Ensino' com 61 candidatos.
